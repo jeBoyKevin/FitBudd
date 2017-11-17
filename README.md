@@ -2,6 +2,5 @@
 FitBuddy Android repository
 LELELELELE
 TROLTROL
+<<<<<<< HEAD
 Ayyyyy
-
-Jemoeder.exe
